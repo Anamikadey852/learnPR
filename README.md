@@ -64,7 +64,7 @@ Supporting video for the following steps: https://youtu.be/aR4KPfCEtrQ
 9. Do **Star** ⭐ this repo to show some love. 🤩
 
 
-## Reading Material
+## Reading Material...
 
 - Part 1 - https://thenewstack.io/tutorial-git-for-absolutely-everyone/
 - Part 2 - https://thenewstack.io/git-with-the-program-getting-started-with-github/
